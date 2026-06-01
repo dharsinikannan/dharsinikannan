@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Deepadharsini K
 
-###  Data Engineer | Cloud 
+###  Software Engineer | Cloud 
 I build scalable, real-time data pipelines and end-to-end data-driven applications. Currently focused on mastering the **Medallion Architecture**, **Apache Kafka**, and **Cloud Data Warehousing**.
 
 🌐 **Portfolio:** [deepadharsini.me](https://deepadharsini.me)
