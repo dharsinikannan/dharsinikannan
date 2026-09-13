@@ -39,7 +39,7 @@ I build scalable, real-time data pipelines and end-to-end data-driven applicatio
 - Built an automated email ingestion pipeline to process unstructured logs.
 - Implemented **AI-driven anomaly detection**, reducing manual diagnostic effort by **80%**.
 
-### 📸 [FileFuse – Secure File Sharing](https://filefuse.deepadharsini.me/)
+### 📸 [FileFuse – Secure File Sharing](https://filefusee.vercel.app/)
 **React · Express · AWS S3 · Redis**
 - Architected a secure system with time-bound access and automated cleanup via **AWS Lifecycle Policies**.
 
